@@ -1,4 +1,4 @@
-## Privacy Policy for Sleepain
+## Privacy Policy for Sleepain app
 
 One of our main priorities is the privacy of our app users. This Privacy Policy document contains types of information that is collected and recorded by Sleepain when you use the Sleepain Android and iOS mobile applications.
 
