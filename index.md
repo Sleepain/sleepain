@@ -1,6 +1,6 @@
-## Privacy Policy for SloPain
+## Privacy Policy for Sleepain
 
-One of our main priorities is the privacy of our app users. This Privacy Policy document contains types of information that is collected and recorded by SloPain when you use the SloPain Android and iOS mobile applications.
+One of our main priorities is the privacy of our app users. This Privacy Policy document contains types of information that is collected and recorded by Sleepain when you use the Sleepain Android and iOS mobile applications.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at andy.alorwu@oulu.fi
 
@@ -18,12 +18,12 @@ If you contact us directly, we may receive additional information about you such
 
 # How we use your information
 
-We currently store your data securely on our servers. We track and analyse this data over the course of using the application. We present the analysis of such data to you in order for you to track your progress of your low back pain over the period.  
+We currently store your data securely on our servers and on your device. We track and analyse this data over the course of using the application. We present the analysis of such data to you in order for you to track your progress of your low back pain and sleep over the period.  
 
 
 # Third-Party Privacy Policies
 
-SloPain's Privacy Policy does not apply to other third party applications or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party applications/websites for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+Sleepain's Privacy Policy does not apply to other third party applications or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party applications/websites for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
 
 Google forms: (https://policies.google.com/privacy?hl=en-US)
 
@@ -45,11 +45,11 @@ If you make a request, we have one month to respond to you. If you would like to
 
 We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
-The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
+The right to access – You have the right to request copies of your personal data.
 
 The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
 
-The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+The right to erasure – You have the right to request that we erase your data, under certain conditions.
 
 The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
 
@@ -64,7 +64,7 @@ If you make a request, we have one month to respond to you. If you would like to
 
 Another part of our priority is protection for children. This app is not targeted at children and as such children are not expected to use it. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity. 
 
-SloPain is not targeted to children. If you think that your child has been able to access this app and is using it, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Sleepain is not targeted to children. If you think that your child has been able to access this app and is using it, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 
 ### Support or Contact
